@@ -5,7 +5,6 @@ const reviews = [
     id: 0,
     name: "Pratham Hadap",
     job: "Full Stack Developer",
-    // image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
     image:Image,
     text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
   },
@@ -14,7 +13,6 @@ const reviews = [
     name: "Pranay Gupta",
     job: "Software Developer",
     image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
-    image:Image,
     text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
   },
   {
