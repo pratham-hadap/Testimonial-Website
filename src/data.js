@@ -2,10 +2,18 @@ import Image from "./images/WhatsApp Image 2024-08-19 at 15.37.51_e41ad186.jpg"
 
 const reviews = [
   {
-    id: 1,
+    id: 0,
     name: "Pratham Hadap",
     job: "Full Stack Developer",
     // image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
+    image:Image,
+    text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
+  },
+  {
+    id: 1,
+    name: "Pranay Gupta",
+    job: "Software Developer",
+    image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
     image:Image,
     text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
   },
